@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "winsock2.h": "c"
+  },
+  "sync.gist": "ff0402afc0ce47efa98f3e064656d5ae",
+  "clang.cflags": [
+    // "-fsyntax-only",
+    "-IC:/SoftInstall/mingw/mingw64/include/",
+    "-IC:/SoftInstall/mingw/mingw64/x86_64-w64-mingw32/include/",
+    "-I${workspaceRoot}/dev"
+  ],
+  "clang.cxxflags": [
+    "-IC:/SoftInstall/mingw/mingw64/include/",
+    "-IC:/SoftInstall/mingw/mingw64/x86_64-w64-mingw32/include/",
+    "-I${workspaceRoot}/dev"
+  ]
+}
